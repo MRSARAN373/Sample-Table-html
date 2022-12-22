@@ -1,0 +1,20 @@
+td{
+	text-align:center;
+}
+#n1{
+	
+	width:300px;
+	height:300px ;
+}
+#n2{
+	
+	width:300px;
+	height:300px ;
+}
+h2{
+	text-align:center;
+	font-size:20px ;
+}
+table{
+	table-layout: revert;
+}
